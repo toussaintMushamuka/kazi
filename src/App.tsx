@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import TodoItem from "./components/todoItem";
 import { Construction } from "lucide-react";
+import TodoItem from "./TodoItem";
 
 type Priority = "urgente" | "moyenne" | "basse";
 
