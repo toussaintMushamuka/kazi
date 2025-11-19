@@ -29,7 +29,7 @@ export default function About() {
   return (
     <div className="bg-base-300 p-10 mb-10 md:mb-32">
       <Title title="A propos" />
-      <div className="md:h-creen flex justify-center items-center">
+      <div className="md:h-creen flex justify-center items-center ">
         <div className="hidden md:block">
           <img src={img} alt="" className="w-96  object-cover rounded-xl" />
         </div>
